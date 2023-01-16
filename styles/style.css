@@ -1,0 +1,190 @@
+*{
+    margin: 0;
+    font-family: 'Work Sans', sans-serif;      /* font family */
+}
+.header{
+    background-image: url(../images/banner/banner2.png);      /* add background image  */
+    background-size: cover;
+    height: 800px;
+}
+.header-div{
+    text-align: right;
+    padding: 210px 230px 360px 845px;
+}
+.header-title{
+    color: #FFFFFF;
+    font-size: 65px;
+    font-weight: 700;
+    padding-bottom: 24px;
+}
+.header-paragraph{
+    color: #FFFFFF;
+    font-size: 16px;
+    font-weight: 400;
+    padding-bottom: 32px;
+}
+.primary-btn{               /*  button  */
+    color: #005FAC;
+    padding-top: 20px;
+    padding:20px 25px;
+    font-weight: 600;
+    border: 0;
+    border-radius: 5px;
+}
+.about-info{
+    text-align: center;
+    margin-top: 100px;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+.about-me-header{
+    color: #181818;
+    font-size: 35px;
+    font-weight: 800;
+    padding-bottom: 20px;
+}
+.about-discribson{
+    font-weight: 400;
+    font-size: 18px;
+    padding-bottom: 20px;
+}
+.information{
+    display: flex;    /*  display*/
+    gap: 35px;
+    margin-left: 525px;
+}
+.about-detiles{
+    text-align: center;
+}
+.about-title{
+    font-weight: 600;
+    font-size: 20px;
+    padding-bottom: 5px;
+}
+.section-div{
+    display: flex;
+    gap: 90px;
+    align-items: center;
+    margin: 130px 320px 130px 200px;
+}
+.section-dis-header{
+    color: #151414;
+    font-weight: 900;
+    font-size: 40px;
+    padding-bottom: 24px;
+    
+}
+.section-dis-paragraph{
+    color: #444343;
+    font-weight: 400;
+    font-size: 16px;
+    padding: 16px;
+}
+.list{
+    padding: 8px;
+    font-weight: 400;
+    font-size: 14px;
+}
+.plan-flex{
+    display: flex;
+    gap: 85px;
+    margin-left: 200px;
+}
+.plan-image{
+    text-align: center;
+}
+.plan-header{
+    color: #151414;
+    font-size: 40px;
+    font-weight: 700;
+    text-align: center;
+    padding-bottom: 50px;
+}
+.plan-image-header{
+    color: #151414;
+    font-size: 30px;
+    font-weight: 700;
+    padding-bottom: 16px;
+    padding-top: 30px;
+}
+.plan-image-paragraph{
+    color: #737272;
+    font-size: 25px;
+    font-weight: 500;
+    padding-bottom: 130px;
+}
+.banner{
+    background: linear-gradient(90deg, #005FAC 0%, rgba(0, 95, 172, 0) 100%),url('../images/watch.png') ;  /*  gradient */
+    background-repeat: no-repeat;
+    width: 1140px;
+    height: 300px;
+    margin-left: 200px;
+    margin-right: 260px;
+    margin-bottom: 130px;
+    border: 0;
+    border-radius: 10px;
+}
+.banner-title{
+    color: #FFFFFF;
+    padding: 60px 615px 24px 65px;
+    font-weight: 700;
+    font-size: 40px;
+}
+.banner .primary-btn{
+    margin-left:65px ;
+}
+.footer{
+    background: #151414;
+    width: 1600px;
+    height: 577px;
+
+}
+.footer-flex{
+    display: flex;
+    
+}
+.footer-discriveson{
+    color: #FFFFFF;
+    padding: 130px 150px 130px 230px;
+}
+.footer-title{
+    font-weight: 700;
+    font-size: 45px;
+    padding-bottom: 16px;
+}
+.footer-paragraph{
+    padding-bottom: 20px;
+    font-weight: 400;
+    font-size: 16px;
+}
+.icons{
+    display: flex;
+    gap: 35px;
+}
+.footer-subscribe{
+    font-weight: 600;
+    font-size: 25px;
+    padding-bottom: 30px;
+}
+.footer-discriveson input{
+    margin-bottom: 24px;
+    margin-right: 200px;
+    border: 1px solid #FFFFFF;
+    background: #151414;
+    border-radius: 5px;
+    width: 80%%;
+    padding: 20px 120px 20px 20px;
+}
+input{
+    color: #F3F3F3;
+}
+.btn-subscribe{
+    color: #FFFFFF;
+    background: #005FAC;
+    padding-top: 20px;
+    padding:20px 25px;
+    font-weight: 600;
+    border: 0;
+    border-radius: 5px;
+
+}
